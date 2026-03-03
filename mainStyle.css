@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0em;
+
+    font-size: 18px;
+    background-color: lightblue;
+}
+
+header{
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 0.7em;
+    padding-bottom: 0.5em;
+    text-align: left;
+    width:100%;
+}
+
+nav{
+    background-color: #E4F8FC;
+    color:#000000;
+    padding:0.1em;
+    text-align: center;
+    width:100%;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    background-color: aquamarine;
+}
