@@ -35,6 +35,21 @@ main{
 
 footer{
     background-color: aquamarine;
+    display: flex;
+    height:300px;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container div{
+    margin:20px;
+    padding: 5px;
+    background-color: white;
+    font-size: 14px;
 }
 
 
