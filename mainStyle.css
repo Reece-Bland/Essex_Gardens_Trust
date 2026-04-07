@@ -4,7 +4,7 @@ body{
 
     font-size: 18px !important;
     background-color: #ede8df !important;
-    font-family: 'Times New Roman', Times, serif !important;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 header{
@@ -14,6 +14,7 @@ header{
     padding-bottom: 0.5em !important;
     text-align: left;
     width:100%;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 nav{
@@ -49,8 +50,10 @@ footer{
 .container div{
     margin:20px;
     padding: 5px;
-    background-color: white;
+    background-color: #1a1a1a;
     font-size: 14px;
+    color:#b8986a;
+    font-weight: bold;
 }
 
 .titleLink{
